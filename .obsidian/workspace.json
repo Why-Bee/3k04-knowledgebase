@@ -11,11 +11,9 @@
             "id": "f3a3e8af506efbaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Pacemaker Basics.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Documents/Tutorial1.2.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pacemaker Basics.md",
+                "file": "Assets/Documents/Tutorial1.2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pacemaker Basics.md",
+                "file": "Assets/Documents/Tutorial1.2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pacemaker Basics.md"
+                "file": "Assets/Documents/Tutorial1.2.pdf"
               }
             }
           },
@@ -158,12 +156,19 @@
   },
   "active": "f3a3e8af506efbaa",
   "lastOpenFiles": [
-    "3k04-documentation",
-    "New folder",
-    "Project Overview.md",
-    "Assets/Documents",
-    "Assets/Pictures",
+    "Assignments/Assignment 1.md",
+    "Assets/Documents/srsVVI rev 2.pdf",
+    "Assets/Documents/srsVVI rev 2.pdf.crdownload",
+    "Assets/Documents/PACEMAKER.pdf",
+    "Assets/Documents/PACEMAKER.pdf.crdownload",
+    "Assets/Documents/pacemaker_shield_explained.pdf",
+    "Assets/Documents/pacemaker_shield_explained.pdf.crdownload",
+    "Assets/Documents/Tutorial1.2.pdf",
+    "Assets/Documents/Tutorial1.2.pdf.crdownload",
+    "Assets/Documents/Tutorial2.pdf",
+    "Assets/Documents/Tutorial2.pdf.crdownload",
     "Pacemaker Basics.md",
+    "Project Overview.md",
     "Simulink.md",
     "Project Resources.md",
     "Tutorials/Tutorial 1.1.md",
@@ -176,14 +181,10 @@
     "Heart Basics.md",
     "[DCM.md",
     "Assets/Pictures/Embedded System Block diagram.png",
-    "Assets",
     "Untitled 1.md",
-    "Assignments/Assignment 1.md",
     "DCM.md",
     "StateFlow.md",
-    "Assignments",
     "Tutorials.md",
-    "Tutorials",
     "Assignments/Assignment 2.md",
     "Untitled.canvas"
   ]
