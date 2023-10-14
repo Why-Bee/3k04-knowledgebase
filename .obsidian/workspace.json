@@ -4,47 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "7cbe8f61006e6250",
+        "id": "3c061212f1515533",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a3e8af506efbaa",
+            "id": "dd7015fa621e2bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/Tutorial 1.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fce80c8930bbf2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simulink.md",
+                "file": "Heart Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "71f066b0f65a8c2d",
+        "id": "d65d8c808664f829",
         "type": "tabs",
         "children": [
           {
-            "id": "314df627c75da914",
+            "id": "53daa789bfe15511",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Assets/Documents/Tutorial1.2.pdf"
+                "file": "Assets/Documents/What Is A Pacemaker.pdf"
+              }
+            }
+          },
+          {
+            "id": "5db6082a5fb55cdf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Assets/Documents/Tutorial1.4.pdf"
               }
             }
           }
@@ -94,11 +91,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c71e620eda11847f",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Documents/Tutorial1.2.pdf",
+                "file": "Heart Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Documents/Tutorial1.2.pdf",
+                "file": "Heart Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Documents/Tutorial1.2.pdf"
+                "file": "Heart Basics.md"
               }
             }
           },
@@ -185,16 +184,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "314df627c75da914",
+  "active": "dd7015fa621e2bf0",
   "lastOpenFiles": [
-    "Simulink.md",
-    "Tutorials/Tutorial 1.2.md",
-    "Project Overview.md",
-    "Pacemaker Shield.md",
-    "Pacemaker Basics.md",
-    "Tutorials/Tutorial 1.1.md",
     "StateFlow.md",
+    "Assets/Documents/What Is A Pacemaker.pdf",
+    "Assets/Documents/Tutorial1.4.pdf",
+    "Assets/Documents/Tutorial1.3.pdf",
+    "Stateflow Chart Block.png",
+    "Simulink.md",
+    "Stateflow Blocks.png",
+    "Simulink Coder Support Package blocks.png",
+    "Pacemaker Basics.md",
+    "Pacemaker Shield.md",
+    "Tutorials/Tutorial 1.1.md",
+    "Tutorials/Tutorial 1.2.md",
     "Assets/Documents/Tutorial1.2.pdf",
+    "Project Overview.md",
     "Untitled.md",
     "Assignments/Assignment 1.md",
     "Assets/Documents/srsVVI rev 2.pdf",
@@ -203,9 +208,6 @@
     "Assets/Documents/PACEMAKER.pdf.crdownload",
     "Assets/Documents/pacemaker_shield_explained.pdf",
     "Assets/Documents/pacemaker_shield_explained.pdf.crdownload",
-    "Assets/Documents/Tutorial1.2.pdf.crdownload",
-    "Assets/Documents/Tutorial2.pdf",
-    "Assets/Documents/Tutorial2.pdf.crdownload",
     "Project Resources.md",
     "Project Requirements.md",
     "Project Deadlines.md",
