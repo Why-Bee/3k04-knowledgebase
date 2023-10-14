@@ -1,0 +1,3 @@
+- Dataflow graphical programming language for model-based design, and for simulation.
+- It's best for modelling, simulating, and implementing embedded systems.
+- A Simulink model is a description of a system using the block diagrams. a process called **code generation** converts the model into optimized, standalone C code.

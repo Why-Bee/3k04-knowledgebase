@@ -11,6 +11,37 @@
             "id": "f3a3e8af506efbaa",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorials/Tutorial 1.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fce80c8930bbf2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simulink.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "71f066b0f65a8c2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "314df627c75da914",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "Assets/Documents/Tutorial1.2.pdf"
@@ -154,8 +185,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f3a3e8af506efbaa",
+  "active": "314df627c75da914",
   "lastOpenFiles": [
+    "Simulink.md",
+    "Tutorials/Tutorial 1.2.md",
+    "Project Overview.md",
+    "Pacemaker Shield.md",
+    "Pacemaker Basics.md",
+    "Tutorials/Tutorial 1.1.md",
+    "StateFlow.md",
+    "Assets/Documents/Tutorial1.2.pdf",
+    "Untitled.md",
     "Assignments/Assignment 1.md",
     "Assets/Documents/srsVVI rev 2.pdf",
     "Assets/Documents/srsVVI rev 2.pdf.crdownload",
@@ -163,27 +203,18 @@
     "Assets/Documents/PACEMAKER.pdf.crdownload",
     "Assets/Documents/pacemaker_shield_explained.pdf",
     "Assets/Documents/pacemaker_shield_explained.pdf.crdownload",
-    "Assets/Documents/Tutorial1.2.pdf",
     "Assets/Documents/Tutorial1.2.pdf.crdownload",
     "Assets/Documents/Tutorial2.pdf",
     "Assets/Documents/Tutorial2.pdf.crdownload",
-    "Pacemaker Basics.md",
-    "Project Overview.md",
-    "Simulink.md",
     "Project Resources.md",
-    "Tutorials/Tutorial 1.1.md",
     "Project Requirements.md",
     "Project Deadlines.md",
-    "Untitled.md",
-    "Pacemaker Shield.md",
     "Assets/Pictures/Pinout of micro.png",
     "Assets/Pictures/Internal Block Diagram of K64F.png",
     "Heart Basics.md",
     "[DCM.md",
     "Assets/Pictures/Embedded System Block diagram.png",
-    "Untitled 1.md",
     "DCM.md",
-    "StateFlow.md",
     "Tutorials.md",
     "Assignments/Assignment 2.md",
     "Untitled.canvas"

@@ -9,7 +9,7 @@
 	- Documentation
 
 ### Deliverables
-- Simulink model for pacemaker modes
+- [[Simulink]] model for pacemaker modes
 - [[DCM]] software
 - Documentation
 - Live demo
