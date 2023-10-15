@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3c061212f1515533",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dd7015fa621e2bf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heart Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "d65d8c808664f829",
         "type": "tabs",
         "children": [
@@ -32,16 +14,6 @@
               "type": "pdf",
               "state": {
                 "file": "Assets/Documents/What Is A Pacemaker.pdf"
-              }
-            }
-          },
-          {
-            "id": "5db6082a5fb55cdf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Assets/Documents/Tutorial1.4.pdf"
               }
             }
           }
@@ -113,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heart Basics.md",
+                "file": "Assets/Documents/What Is A Pacemaker.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heart Basics.md",
+                "file": "Assets/Documents/What Is A Pacemaker.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heart Basics.md"
+                "file": "Assets/Documents/What Is A Pacemaker.pdf"
               }
             }
           },
@@ -184,10 +156,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "dd7015fa621e2bf0",
+  "active": "53daa789bfe15511",
   "lastOpenFiles": [
-    "StateFlow.md",
+    "Assets/Documents/Assignment1.pdf",
+    "Heart Basics.md",
     "Assets/Documents/What Is A Pacemaker.pdf",
+    "StateFlow.md",
     "Assets/Documents/Tutorial1.4.pdf",
     "Assets/Documents/Tutorial1.3.pdf",
     "Stateflow Chart Block.png",
@@ -213,7 +187,6 @@
     "Project Deadlines.md",
     "Assets/Pictures/Pinout of micro.png",
     "Assets/Pictures/Internal Block Diagram of K64F.png",
-    "Heart Basics.md",
     "[DCM.md",
     "Assets/Pictures/Embedded System Block diagram.png",
     "DCM.md",
