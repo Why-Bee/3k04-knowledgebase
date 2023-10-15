@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "d65d8c808664f829",
+        "id": "95a163c0ae99d7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "53daa789bfe15511",
+            "id": "b43dfe634a1032ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heart Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c7369d4cfef6b9e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb40d62a7d921e61",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -46,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pqr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c71e620eda11847f",
@@ -156,32 +173,35 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "53daa789bfe15511",
+  "active": "fb40d62a7d921e61",
   "lastOpenFiles": [
-    "Assets/Documents/Assignment1.pdf",
     "Heart Basics.md",
+    "Pacemaker Basics.md",
     "Assets/Documents/What Is A Pacemaker.pdf",
+    "Pasted image 20231014222221.png",
+    "Wiggers diagram.png",
+    "ECG Waveform.png",
+    "Untitled.md",
     "StateFlow.md",
+    "Assignments/Assignment 2.md",
+    "Assets/Documents/Assignment1.pdf",
     "Assets/Documents/Tutorial1.4.pdf",
     "Assets/Documents/Tutorial1.3.pdf",
-    "Stateflow Chart Block.png",
+    "Assets/Pictures/Stateflow Chart Block.png",
     "Simulink.md",
-    "Stateflow Blocks.png",
-    "Simulink Coder Support Package blocks.png",
-    "Pacemaker Basics.md",
+    "Assets/Pictures/Stateflow Blocks.png",
+    "Assets/Pictures/Simulink Coder Support Package blocks.png",
     "Pacemaker Shield.md",
     "Tutorials/Tutorial 1.1.md",
     "Tutorials/Tutorial 1.2.md",
     "Assets/Documents/Tutorial1.2.pdf",
     "Project Overview.md",
-    "Untitled.md",
     "Assignments/Assignment 1.md",
     "Assets/Documents/srsVVI rev 2.pdf",
     "Assets/Documents/srsVVI rev 2.pdf.crdownload",
     "Assets/Documents/PACEMAKER.pdf",
     "Assets/Documents/PACEMAKER.pdf.crdownload",
     "Assets/Documents/pacemaker_shield_explained.pdf",
-    "Assets/Documents/pacemaker_shield_explained.pdf.crdownload",
     "Project Resources.md",
     "Project Requirements.md",
     "Project Deadlines.md",
@@ -191,7 +211,6 @@
     "Assets/Pictures/Embedded System Block diagram.png",
     "DCM.md",
     "Tutorials.md",
-    "Assignments/Assignment 2.md",
     "Untitled.canvas"
   ]
 }

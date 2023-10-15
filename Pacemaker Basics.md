@@ -1,7 +1,10 @@
 ___
+### Overview
+**A pacemaker is a medical device that monitors and regulates a patient's heart rate by stimulating the chambers of the heart synthetically.**
+### Embedded System
 Pacemakers are Embedded Systems
 - Embedded System- Any hardware that is controlled by software. The system (hardware+software) is "embedded" into the part of the real-world that it controls, and it cannot be removed or altered.
-### Diagram of Embedded System
+#### Diagram of Embedded System
 
 ![[Embedded System Block diagram.png]]
 - Embedded Computer: in our case it is the pulse generating device [[Pacemaker Shield]]
@@ -13,7 +16,7 @@ Pacemakers are Embedded Systems
 - Output variables: The way that the pulse generator sends stimulus to the heart. It is also the connection between pacemaker leads and the CCS.
 - Link to other systems: NONE
 
-### Microcontroller
+#### Microcontroller
 
 We use FRDM-K64F microcontroller for this pacemaker.
 ![[Internal Block Diagram of K64F.png]]
