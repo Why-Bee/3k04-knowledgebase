@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "95a163c0ae99d7e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b43dfe634a1032ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heart Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c7369d4cfef6b9e1",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Assets/Documents/What Is A Pacemaker.pdf"
+                "file": "Assets/Documents/Tutorial1.2.pdf"
               }
             }
           }
@@ -81,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Documents/What Is A Pacemaker.pdf",
+                "file": "Assets/Documents/Tutorial1.2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Documents/What Is A Pacemaker.pdf",
+                "file": "Assets/Documents/Tutorial1.2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Documents/What Is A Pacemaker.pdf"
+                "file": "Assets/Documents/Tutorial1.2.pdf"
               }
             }
           },
@@ -175,9 +156,9 @@
   },
   "active": "fb40d62a7d921e61",
   "lastOpenFiles": [
+    "Assets/Documents/What Is A Pacemaker.pdf",
     "Heart Basics.md",
     "Pacemaker Basics.md",
-    "Assets/Documents/What Is A Pacemaker.pdf",
     "Pasted image 20231014222221.png",
     "Wiggers diagram.png",
     "ECG Waveform.png",
