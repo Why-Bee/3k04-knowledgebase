@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Assets/Documents/Tutorial1.2.pdf"
+                "file": "Assets/Documents/PACEMAKER.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Documents/Tutorial1.2.pdf",
+                "file": "Assets/Documents/PACEMAKER.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Documents/Tutorial1.2.pdf",
+                "file": "Assets/Documents/PACEMAKER.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Documents/Tutorial1.2.pdf"
+                "file": "Assets/Documents/PACEMAKER.pdf"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "fb40d62a7d921e61",
   "lastOpenFiles": [
+    "Assets/Documents/pacemaker_shield_explained.pdf",
+    "Assets/Documents/Tutorial1.2.pdf",
     "Assets/Documents/What Is A Pacemaker.pdf",
     "Heart Basics.md",
     "Pacemaker Basics.md",
@@ -175,14 +177,12 @@
     "Pacemaker Shield.md",
     "Tutorials/Tutorial 1.1.md",
     "Tutorials/Tutorial 1.2.md",
-    "Assets/Documents/Tutorial1.2.pdf",
     "Project Overview.md",
     "Assignments/Assignment 1.md",
     "Assets/Documents/srsVVI rev 2.pdf",
     "Assets/Documents/srsVVI rev 2.pdf.crdownload",
     "Assets/Documents/PACEMAKER.pdf",
     "Assets/Documents/PACEMAKER.pdf.crdownload",
-    "Assets/Documents/pacemaker_shield_explained.pdf",
     "Project Resources.md",
     "Project Requirements.md",
     "Project Deadlines.md",
